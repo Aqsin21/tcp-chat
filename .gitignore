@@ -1,0 +1,9 @@
+/target/
+.DS_Store
+.vscode/
+
+*.log
+*.tmp
+*.swp
+*.swo
+*~
