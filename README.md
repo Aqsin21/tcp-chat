@@ -1,7 +1,8 @@
 # TCP Chat Server
 
-![Rust](https://img.shields.io/badge/Rust-2024 Edition-000000?logo=rust&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-1.54.1-2d2d2d?logo=rust&logoColor=white)
+![Rust 2024](https://img.shields.io/badge/Rust-2024-orange?logo=rust)
+![Tokio 1.54.1](https://img.shields.io/badge/Tokio-1.54.1-2d2d2d?logo=rust&logoColor=white)
+![Spec-Driven Development](https://img.shields.io/badge/Development-Spec--Driven-blueviolet)
 
 > A small, explainable TCP broadcast chat server built incrementally in Rust.
 
